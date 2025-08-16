@@ -32,6 +32,6 @@ A regressão logística se destaca por gerar previsões mais confiáveis de chur
 Como o objetivo da analise consiste em prever a evasão de clientes (churn), o modelo de regressão logistica se saiu melhor. Mas no geral, ambos os modelos são eficazes na previsão de churn e podem ser combinados para aproveitar o melhor de cada um.
 
 
-[Link para o projeto completo]()
+[Link para o projeto completo](https://github.com/crodriguesbianca/churnPrediction/blob/main/Case_Vivo.ipynb)
 
 
