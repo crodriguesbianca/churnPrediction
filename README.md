@@ -1,5 +1,11 @@
 # Análise de evasão de Clientes
 
+<p align="center">
+  <img src="https://github.com/crodriguesbianca/churnPrediction/blob/main/imagem-capa.jpg" alt="imagem relacionada ao tema">
+</p>
+
+
+
 A análise preditiva de churn possibilita identificar clientes com maior risco de cancelamento antes que isso aconteça. Essa antecipação permite implementar ações estratégicas, como ofertas personalizadas, melhorias nos serviços ou ajustes de marketing, resultando em maior retenção e valorização da base de clientes.
 
 Este projeto foi desenvolvido para a disciplina Data Discovery e Analytics do curso de Pós-Graduação em Ciência de Dados da PUC Minas, visando prever a evasão de clientes (churn) em uma empresa de telecomunicação, permitindo ações estratégicas de retenção.
